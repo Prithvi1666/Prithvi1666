@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithviraj Daud</h1>
-<h3 align="center">I am an UI/UX designer love to design landing pages</h3>
+<h3 align="center">Aspiring software developer with a background in Electronics & Computer Engineering. Skilled in Python, JavaScript, React, and database management. Passionate about UI/UX design, creative problem-solving, and building intuitive, user-friendly digital experiences. Hackathon finalist and published research author.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvi1666&label=Profile%20views&color=0e75b6&style=flat" alt="prithvi1666" /> </p>
 
