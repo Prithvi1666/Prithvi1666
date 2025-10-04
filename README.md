@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning IoT systems, advanced JavaScript frameworks, backend integration, and UX animations (GSAP, Framer-motion). **React.js, Next.js, Node.js, Java, JavaScript, Python, SQL, MongoDB, HTML, CSS, TailwindCSS, GSAP, Framer-motion, Figma, Adobe XD, Illustrator**
 
-- 👨‍💻 All of my projects are available at [https://prithvi-daud.vercel.app/](https://prithvi-daud.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://prithvi-daud.vercel.app/](https://prithvi-daud.vercel.app)
 
 - 📫 How to reach me **prithvirajdaud143@gmail.com**
 
